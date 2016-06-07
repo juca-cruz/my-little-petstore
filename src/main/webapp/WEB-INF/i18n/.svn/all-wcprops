@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8/trunk/src/main/webapp/WEB-INF/i18n
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8/trunk/src/main/webapp/WEB-INF/i18n/messages.properties
+END
+messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8/trunk/src/main/webapp/WEB-INF/i18n/messages_es.properties
+END

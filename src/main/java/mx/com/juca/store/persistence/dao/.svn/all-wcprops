@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/main/java/mx/com/juca/store/persistence/dao
+END
+IOrderDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/main/java/mx/com/juca/store/persistence/dao/IOrderDAO.java
+END
+IProductOrderDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/main/java/mx/com/juca/store/persistence/dao/IProductOrderDAO.java
+END
+ICategoryDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/main/java/mx/com/juca/store/persistence/dao/ICategoryDAO.java
+END
+IProductDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/main/java/mx/com/juca/store/persistence/dao/IProductDAO.java
+END
+ICustomerDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/main/java/mx/com/juca/store/persistence/dao/ICustomerDAO.java
+END
+ICreditCardDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/main/java/mx/com/juca/store/persistence/dao/ICreditCardDAO.java
+END
+IBrandDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/main/java/mx/com/juca/store/persistence/dao/IBrandDAO.java
+END

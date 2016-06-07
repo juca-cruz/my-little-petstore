@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/src/main/webapp/jsp/checkout
+END
+review_order.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/main/webapp/jsp/checkout/review_order.jsp
+END
+payment_method.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/main/webapp/jsp/checkout/payment_method.jsp
+END
+views.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/main/webapp/jsp/checkout/views.xml
+END
+order_completed.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/main/webapp/jsp/checkout/order_completed.jsp
+END
+confirm_order.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/main/webapp/jsp/checkout/confirm_order.jsp
+END
